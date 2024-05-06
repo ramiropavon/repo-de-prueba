@@ -1,0 +1,1 @@
+{'C:\\Users\\Usuario\\.spyder-py3\\untitled0.py': 'C:\\Users\\Usuario\\.spyder-py3\\autosave\\untitled0.py'}
